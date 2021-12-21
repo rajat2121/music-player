@@ -52,15 +52,15 @@
     float: left;
 }
 .right-col{
-    float: right;
-    margin-right: 6%;
-    margin-top: 120px;
+    float: left;
+    margin-right: 45%;
+    margin-top: 100px;
     display: flex;
     align-items: center;
 }
 .right-col p{
     font-size: 18px;
-    color: cadetblue;
+    color: blue;
     font-weight: 400;
     margin-right: 15px;
 }
